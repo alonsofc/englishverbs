@@ -1,0 +1,366 @@
+[
+    {
+        "id": 1,
+        "infinitive": "Be",
+        "pastSimple": "Was/Were",
+        "pastParticiple": "Been",
+        "translation": "Ser/Estar"
+    },
+    {
+        "id": 2,
+        "infinitive": "Begin",
+        "pastSimple": "Began",
+        "pastParticiple": "Begun",
+        "translation": "Comenzar"
+    },
+    {
+        "id": 3,
+        "infinitive": "Break",
+        "pastSimple": "Broke",
+        "pastParticiple": "Broken",
+        "translation": "Romper"
+    },
+    {
+        "id": 4,
+        "infinitive": "Bring",
+        "pastSimple": "Brought",
+        "pastParticiple": "Brought",
+        "translation": "Traer"
+    },
+    {
+        "id": 5,
+        "infinitive": "Buy",
+        "pastSimple": "Bought",
+        "pastParticiple": "Bought",
+        "translation": "Comprar"
+    },
+    {
+        "id": 6,
+        "infinitive": "Build",
+        "pastSimple": "Built",
+        "pastParticiple": "Built",
+        "translation": "Construir"
+    },
+    {
+        "id": 7,
+        "infinitive": "Choose",
+        "pastSimple": "Chose",
+        "pastParticiple": "Chosen",
+        "translation": "Elegir"
+    },
+    {
+        "id": 8,
+        "infinitive": "Come",
+        "pastSimple": "Came",
+        "pastParticiple": "Come",
+        "translation": "Venir"
+    },
+    {
+        "id": 9,
+        "infinitive": "Cost",
+        "pastSimple": "Cost",
+        "pastParticiple": "Cost",
+        "translation": "Costar"
+    },
+    {
+        "id": 10,
+        "infinitive": "Cut",
+        "pastSimple": "Cut",
+        "pastParticiple": "Cut",
+        "translation": "Cortar"
+    },
+    {
+        "id": 11,
+        "infinitive": "Do",
+        "pastSimple": "Did",
+        "pastParticiple": "Done",
+        "translation": "Hacer"
+    },
+    {
+        "id": 12,
+        "infinitive": "Draw",
+        "pastSimple": "Drew",
+        "pastParticiple": "Drawn",
+        "translation": "Dibujar"
+    },
+    {
+        "id": 13,
+        "infinitive": "Drive",
+        "pastSimple": "Drove",
+        "pastParticiple": "Driven",
+        "translation": "Conducir"
+    },
+    {
+        "id": 14,
+        "infinitive": "Eat",
+        "pastSimple": "Ate",
+        "pastParticiple": "Eaten",
+        "translation": "Comer"
+    },
+    {
+        "id": 15,
+        "infinitive": "Feel",
+        "pastSimple": "Felt",
+        "pastParticiple": "Felt",
+        "translation": "Sentir"
+    },
+    {
+        "id": 16,
+        "infinitive": "Find",
+        "pastSimple": "Found",
+        "pastParticiple": "Found",
+        "translation": "Encontrar"
+    },
+    {
+        "id": 17,
+        "infinitive": "Get",
+        "pastSimple": "Got",
+        "pastParticiple": "Got",
+        "translation": "Obtener"
+    },
+    {
+        "id": 18,
+        "infinitive": "Give",
+        "pastSimple": "Gave",
+        "pastParticiple": "Given",
+        "translation": "Dar"
+    },
+    {
+        "id": 19,
+        "infinitive": "Go",
+        "pastSimple": "Went",
+        "pastParticiple": "Gone",
+        "translation": "Ir"
+    },
+    {
+        "id": 20,
+        "infinitive": "Have",
+        "pastSimple": "Had",
+        "pastParticiple": "Had",
+        "translation": "Tener"
+    },
+    {
+        "id": 21,
+        "infinitive": "Hear",
+        "pastSimple": "Heard",
+        "pastParticiple": "Heard",
+        "translation": "Escuchar"
+    },
+    {
+        "id": 22,
+        "infinitive": "Hold",
+        "pastSimple": "Held",
+        "pastParticiple": "Held",
+        "translation": "Sostener"
+    },
+    {
+        "id": 23,
+        "infinitive": "Keep",
+        "pastSimple": "Kept",
+        "pastParticiple": "Kept",
+        "translation": "Mantener"
+    },
+    {
+        "id": 24,
+        "infinitive": "Know",
+        "pastSimple": "Knew",
+        "pastParticiple": "Know",
+        "translation": "Saber"
+    },
+    {
+        "id": 25,
+        "infinitive": "Leave",
+        "pastSimple": "Left",
+        "pastParticiple": "Left",
+        "translation": "Dejar"
+    },
+    {
+        "id": 26,
+        "infinitive": "Lead",
+        "pastSimple": "Led",
+        "pastParticiple": "Led",
+        "translation": "Dirigir"
+    },
+    {
+        "id": 27,
+        "infinitive": "Let",
+        "pastSimple": "Let",
+        "pastParticiple": "Let",
+        "translation": "Dejar"
+    },
+    {
+        "id": 28,
+        "infinitive": "Lie",
+        "pastSimple": "Lay",
+        "pastParticiple": "Lain",
+        "translation": "Mentir"
+    },
+    {
+        "id": 29,
+        "infinitive": "Lose",
+        "pastSimple": "Lost",
+        "pastParticiple": "Lost",
+        "translation": "Perder"
+    },
+    {
+        "id": 30,
+        "infinitive": "Make",
+        "pastSimple": "Made",
+        "pastParticiple": "Made",
+        "translation": "Hacer"
+    },
+    {
+        "id": 31,
+        "infinitive": "Mean",
+        "pastSimple": "Meant",
+        "pastParticiple": "Meant",
+        "translation": "Significar"
+    },
+    {
+        "id": 32,
+        "infinitive": "Meet",
+        "pastSimple": "Met",
+        "pastParticiple": "Met",
+        "translation": "Encontrar"
+    },
+    {
+        "id": 33,
+        "infinitive": "Pay",
+        "pastSimple": "Paid",
+        "pastParticiple": "Paid",
+        "translation": "Pagar"
+    },
+    {
+        "id": 34,
+        "infinitive": "Put",
+        "pastSimple": "Put",
+        "pastParticiple": "Put",
+        "translation": "Poner"
+    },
+    {
+        "id": 35,
+        "infinitive": "Run",
+        "pastSimple": "Ran",
+        "pastParticiple": "Run",
+        "translation": "Correr"
+    },
+    {
+        "id": 36,
+        "infinitive": "Say",
+        "pastSimple": "Said",
+        "pastParticiple": "Said",
+        "translation": "Decir"
+    },
+    {
+        "id": 37,
+        "infinitive": "See",
+        "pastSimple": "Saw",
+        "pastParticiple": "Seen",
+        "translation": "Ver"
+    },
+    {
+        "id": 38,
+        "infinitive": "Sell",
+        "pastSimple": "Sold",
+        "pastParticiple": "Sold",
+        "translation": "Vender"
+    },
+    {
+        "id": 39,
+        "infinitive": "Send",
+        "pastSimple": "Sent",
+        "pastParticiple": "Sent",
+        "translation": "Enviar"
+    },
+    {
+        "id": 40,
+        "infinitive": "Set",
+        "pastSimple": "Set",
+        "pastParticiple": "Set",
+        "translation": "Colocar"
+    },
+    {
+        "id": 41,
+        "infinitive": "Sit",
+        "pastSimple": "Sat",
+        "pastParticiple": "Sat",
+        "translation": "Sentarse"
+    },
+    {
+        "id": 42,
+        "infinitive": "Speak",
+        "pastSimple": "Spoke",
+        "pastParticiple": "Spoken",
+        "translation": "Hablar"
+    },
+    {
+        "id": 43,
+        "infinitive": "Spend",
+        "pastSimple": "Spent",
+        "pastParticiple": "Spent",
+        "translation": "Gastar"
+    },
+    {
+        "id": 44,
+        "infinitive": "Stand",
+        "pastSimple": "Stood",
+        "pastParticiple": "Stood",
+        "translation": "Pararse"
+    },
+    {
+        "id": 45,
+        "infinitive": "Take",
+        "pastSimple": "Took",
+        "pastParticiple": "Taken",
+        "translation": "Tomar"
+    },
+    {
+        "id": 46,
+        "infinitive": "Teach",
+        "pastSimple": "Taught",
+        "pastParticiple": "Taught",
+        "translation": "Enseñar"
+    },
+    {
+        "id": 47,
+        "infinitive": "Tell",
+        "pastSimple": "Told",
+        "pastParticiple": "Told",
+        "translation": "Decir"
+    },
+    {
+        "id": 48,
+        "infinitive": "Think",
+        "pastSimple": "Thought",
+        "pastParticiple": "Thought",
+        "translation": "Pensar"
+    },
+    {
+        "id": 49,
+        "infinitive": "Understand",
+        "pastSimple": "Understood",
+        "pastParticiple": "Understood",
+        "translation": "Entender"
+    },
+    {
+        "id": 50,
+        "infinitive": "Wear",
+        "pastSimple": "Wore",
+        "pastParticiple": "Worn",
+        "translation": "Tener puesto"
+    },
+    {
+        "id": 51,
+        "infinitive": "Win",
+        "pastSimple": "Won",
+        "pastParticiple": "Won",
+        "translation": "Ganar"
+    },
+    {
+        "id": 52,
+        "infinitive": "Write",
+        "pastSimple": "Wrote",
+        "pastParticiple": "Written",
+        "translation": "Escribir"
+    }
+]

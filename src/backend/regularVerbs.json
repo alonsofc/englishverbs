@@ -1,0 +1,1038 @@
+[
+	{
+		"id": 1,
+		"infinitive": "Accept",
+		"pastSimple": "Accepted",
+		"pastParticiple": "Accepted",
+		"translation": "Aceptar"
+	},
+	{
+		"id": 2,
+		"infinitive": "Add",
+		"pastSimple": "Added",
+		"pastParticiple": "Added",
+		"translation": "Agregar"
+	},
+	{
+		"id": 3,
+		"infinitive": "Admire",
+		"pastSimple": "Admired",
+		"pastParticiple": "Admired",
+		"translation": "Admirar"
+	},
+	{
+		"id": 4,
+		"infinitive": "Advise",
+		"pastSimple": "Advised",
+		"pastParticiple": "Advised",
+		"translation": "Aconsejar"
+	},
+	{
+		"id": 5,
+		"infinitive": "Announce",
+		"pastSimple": "Announced",
+		"pastParticiple": "Announced",
+		"translation": "Anunciar"
+	},
+	{
+		"id": 6,
+		"infinitive": "Apologize",
+		"pastSimple": "Apologized",
+		"pastParticiple": "Apologized",
+		"translation": "Disculparse"
+	},
+	{
+		"id": 7,
+		"infinitive": "Approve",
+		"pastSimple": "Approved",
+		"pastParticiple": "Approved",
+		"translation": "Aprobar"
+	},
+	{
+		"id": 8,
+		"infinitive": "Argue",
+		"pastSimple": "Argued",
+		"pastParticiple": "Argued",
+		"translation": "Discutir"
+	},
+	{
+		"id": 9,
+		"infinitive": "Arrive",
+		"pastSimple": "Arrived",
+		"pastParticiple": "Arrived",
+		"translation": "Llegar"
+	},
+	{
+		"id": 10,
+		"infinitive": "Ask",
+		"pastSimple": "Asked",
+		"pastParticiple": "Asked",
+		"translation": "Preguntar"
+	},
+	{
+		"id": 11,
+		"infinitive": "Attack",
+		"pastSimple": "Attacked",
+		"pastParticiple": "Attacked",
+		"translation": "Atacar"
+	},
+	{
+		"id": 12,
+		"infinitive": "Attempt",
+		"pastSimple": "Attempted",
+		"pastParticiple": "Attempted",
+		"translation": "Intentar"
+	},
+	{
+		"id": 13,
+		"infinitive": "Avoid",
+		"pastSimple": "Avoided",
+		"pastParticiple": "Avoided",
+		"translation": "Evitar"
+	},
+	{
+		"id": 14,
+		"infinitive": "Back",
+		"pastSimple": "Backed",
+		"pastParticiple": "Backed",
+		"translation": "Respaldar"
+	},
+	{
+		"id": 15,
+		"infinitive": "Bake",
+		"pastSimple": "Baked",
+		"pastParticiple": "Baked",
+		"translation": "Hornear"
+	},
+	{
+		"id": 16,
+		"infinitive": "Balance",
+		"pastSimple": "Balanced",
+		"pastParticiple": "Balanced",
+		"translation": "Equilibrar"
+	},
+	{
+		"id": 17,
+		"infinitive": "Ban",
+		"pastSimple": "Banned",
+		"pastParticiple": "Banned",
+		"translation": "Prohibir"
+	},
+	{
+		"id": 18,
+		"infinitive": "Bathe",
+		"pastSimple": "Bathed",
+		"pastParticiple": "Bathed",
+		"translation": "Bañar"
+	},
+	{
+		"id": 19,
+		"infinitive": "Abandon",
+		"pastSimple": "Abandoned",
+		"pastParticiple": "",
+		"translation": "Abandonar"
+	},
+	{
+		"id": 20,
+		"infinitive": "Beam",
+		"pastSimple": "Beamed",
+		"pastParticiple": "",
+		"translation": "Emitir"
+	},
+	{
+		"id": 21,
+		"infinitive": "Beg",
+		"pastSimple": "Begged",
+		"pastParticiple": "",
+		"translation": "Rogar"
+	},
+	{
+		"id": 22,
+		"infinitive": "Abolish",
+		"pastSimple": "Abolished",
+		"pastParticiple": "",
+		"translation": "Abolir"
+	},
+	{
+		"id": 23,
+		"infinitive": "Believe",
+		"pastSimple": "Believed",
+		"pastParticiple": "",
+		"translation": "Creer"
+	},
+	{
+		"id": 24,
+		"infinitive": "Bless",
+		"pastSimple": "Blessed",
+		"pastParticiple": "",
+		"translation": "Bendecir"
+	},
+	{
+		"id": 25,
+		"infinitive": "Boil",
+		"pastSimple": "Boiled",
+		"pastParticiple": "",
+		"translation": "Hervir"
+	},
+	{
+		"id": 26,
+		"infinitive": "Book",
+		"pastSimple": "Booked",
+		"pastParticiple": "",
+		"translation": "Reservar"
+	},
+	{
+		"id": 27,
+		"infinitive": "Bore",
+		"pastSimple": "Bored",
+		"pastParticiple": "",
+		"translation": "Aburrir"
+	},
+	{
+		"id": 28,
+		"infinitive": "Borrow",
+		"pastSimple": "Borrowed",
+		"pastParticiple": "",
+		"translation": "Prestar"
+	},
+	{
+		"id": 29,
+		"infinitive": "Bounce",
+		"pastSimple": "Bounced",
+		"pastParticiple": "",
+		"translation": "Rebotar"
+	},
+	{
+		"id": 30,
+		"infinitive": "Bow",
+		"pastSimple": "Bowed",
+		"pastParticiple": "",
+		"translation": "Inclinar"
+	},
+	{
+		"id": 31,
+		"infinitive": "Open",
+		"pastSimple": "Opened",
+		"pastParticiple": "",
+		"translation": "Abrir"
+	},
+	{
+		"id": 32,
+		"infinitive": "Breathe",
+		"pastSimple": "Breathed",
+		"pastParticiple": "",
+		"translation": "Respirar"
+	},
+	{
+		"id": 33,
+		"infinitive": "Absorb",
+		"pastSimple": "Absorbed",
+		"pastParticiple": "",
+		"translation": "Absorber"
+	},
+	{
+		"id": 34,
+		"infinitive": "Burn",
+		"pastSimple": "Burned",
+		"pastParticiple": "",
+		"translation": "Quemar"
+	},
+	{
+		"id": 35,
+		"infinitive": "Bury",
+		"pastSimple": "Buried",
+		"pastParticiple": "",
+		"translation": "Enterrar"
+	},
+	{
+		"id": 36,
+		"infinitive": "Abuse",
+		"pastSimple": "Abused",
+		"pastParticiple": "",
+		"translation": "Abusar"
+	},
+	{
+		"id": 37,
+		"infinitive": "Calculate",
+		"pastSimple": "Calculated",
+		"pastParticiple": "",
+		"translation": "Calcular"
+	},
+	{
+		"id": 38,
+		"infinitive": "Call",
+		"pastSimple": "Called",
+		"pastParticiple": "",
+		"translation": "Llamar"
+	},
+	{
+		"id": 39,
+		"infinitive": "Camp",
+		"pastSimple": "Camped",
+		"pastParticiple": "",
+		"translation": "Acampar"
+	},
+	{
+		"id": 40,
+		"infinitive": "Care",
+		"pastSimple": "Cared",
+		"pastParticiple": "",
+		"translation": "Preocupar"
+	},
+	{
+		"id": 41,
+		"infinitive": "Carry",
+		"pastSimple": "Carried",
+		"pastParticiple": "",
+		"translation": "Llevar"
+	},
+	{
+		"id": 42,
+		"infinitive": "Accede",
+		"pastSimple": "Acceded",
+		"pastParticiple": "",
+		"translation": "Acceder"
+	},
+	{
+		"id": 43,
+		"infinitive": "Change",
+		"pastSimple": "Changed",
+		"pastParticiple": "",
+		"translation": "Cambiar"
+	},
+	{
+		"id": 44,
+		"infinitive": "Check",
+		"pastSimple": "Checked",
+		"pastParticiple": "",
+		"translation": "Verificar"
+	},
+	{
+		"id": 45,
+		"infinitive": "Accent",
+		"pastSimple": "Accented",
+		"pastParticiple": "",
+		"translation": "Acentuar"
+	},
+	{
+		"id": 46,
+		"infinitive": "Clean",
+		"pastSimple": "Cleaned",
+		"pastParticiple": "",
+		"translation": "Limpiar"
+	},
+	{
+		"id": 47,
+		"infinitive": "Close",
+		"pastSimple": "Closed",
+		"pastParticiple": "",
+		"translation": "Cerrar"
+	},
+	{
+		"id": 48,
+		"infinitive": "Collect",
+		"pastSimple": "Collected",
+		"pastParticiple": "",
+		"translation": "Recoger"
+	},
+	{
+		"id": 49,
+		"infinitive": "Approach",
+		"pastSimple": "Approached",
+		"pastParticiple": "",
+		"translation": "Acercarse"
+	},
+	{
+		"id": 50,
+		"infinitive": "Communicate",
+		"pastSimple": "Communicated",
+		"pastParticiple": "",
+		"translation": "Comunicar"
+	},
+	{
+		"id": 51,
+		"infinitive": "Compare",
+		"pastSimple": "Compared",
+		"pastParticiple": "",
+		"translation": "Comparar"
+	},
+	{
+		"id": 52,
+		"infinitive": "Complete",
+		"pastSimple": "Completed",
+		"pastParticiple": "",
+		"translation": "Completar"
+	},
+	{
+		"id": 53,
+		"infinitive": "Cook",
+		"pastSimple": "Cooked",
+		"pastParticiple": "",
+		"translation": "Cocinar"
+	},
+	{
+		"id": 54,
+		"infinitive": "Copy",
+		"pastSimple": "Copied",
+		"pastParticiple": "",
+		"translation": "Copiar"
+	},
+	{
+		"id": 55,
+		"infinitive": "Correct",
+		"pastSimple": "Corrected",
+		"pastParticiple": "",
+		"translation": "Corregir"
+	},
+	{
+		"id": 56,
+		"infinitive": "Advice",
+		"pastSimple": "Adviced",
+		"pastParticiple": "",
+		"translation": "Aconsejar"
+	},
+	{
+		"id": 57,
+		"infinitive": "Count",
+		"pastSimple": "Counted",
+		"pastParticiple": "",
+		"translation": "Contar"
+	},
+	{
+		"id": 58,
+		"infinitive": "Create",
+		"pastSimple": "Created",
+		"pastParticiple": "",
+		"translation": "Crear"
+	},
+	{
+		"id": 59,
+		"infinitive": "Cry",
+		"pastSimple": "Cried",
+		"pastParticiple": "",
+		"translation": "Llorar"
+	},
+	{
+		"id": 60,
+		"infinitive": "Agree",
+		"pastSimple": "Agreed",
+		"pastParticiple": "",
+		"translation": "Acordar"
+	},
+	{
+		"id": 61,
+		"infinitive": "Dance",
+		"pastSimple": "Danced",
+		"pastParticiple": "",
+		"translation": "Bailar"
+	},
+	{
+		"id": 62,
+		"infinitive": "Decide",
+		"pastSimple": "Decided",
+		"pastParticiple": "",
+		"translation": "Decidir"
+	},
+	{
+		"id": 63,
+		"infinitive": "Decorate",
+		"pastSimple": "Decorated",
+		"pastParticiple": "",
+		"translation": "Decorar"
+	},
+	{
+		"id": 64,
+		"infinitive": "Deliver",
+		"pastSimple": "Delivered",
+		"pastParticiple": "",
+		"translation": "Entregar"
+	},
+	{
+		"id": 65,
+		"infinitive": "Describe",
+		"pastSimple": "Described",
+		"pastParticiple": "",
+		"translation": "Describir"
+	},
+	{
+		"id": 66,
+		"infinitive": "Design",
+		"pastSimple": "Designed",
+		"pastParticiple": "",
+		"translation": "Diseñar"
+	},
+	{
+		"id": 67,
+		"infinitive": "Determine",
+		"pastSimple": "Determined",
+		"pastParticiple": "",
+		"translation": "Determinar"
+	},
+	{
+		"id": 68,
+		"infinitive": "Develop",
+		"pastSimple": "Developed",
+		"pastParticiple": "",
+		"translation": "Desarrollar"
+	},
+	{
+		"id": 69,
+		"infinitive": "Die",
+		"pastSimple": "Died",
+		"pastParticiple": "",
+		"translation": "Morir"
+	},
+	{
+		"id": 70,
+		"infinitive": "Differentiate",
+		"pastSimple": "Differentiated",
+		"pastParticiple": "",
+		"translation": "Diferenciar"
+	},
+	{
+		"id": 71,
+		"infinitive": "Act",
+		"pastSimple": "Acted",
+		"pastParticiple": "",
+		"translation": "Actuar"
+	},
+	{
+		"id": 72,
+		"infinitive": "Discuss",
+		"pastSimple": "Discussed",
+		"pastParticiple": "",
+		"translation": "Discutir"
+	},
+	{
+		"id": 73,
+		"infinitive": "Distribute",
+		"pastSimple": "Distributed",
+		"pastParticiple": "",
+		"translation": "Distribuir"
+	},
+	{
+		"id": 74,
+		"infinitive": "Divide",
+		"pastSimple": "Divided",
+		"pastParticiple": "",
+		"translation": "Dividir"
+	},
+	{
+		"id": 75,
+		"infinitive": "Accuse",
+		"pastSimple": "Accused",
+		"pastParticiple": "",
+		"translation": "Acusar"
+	},
+	{
+		"id": 76,
+		"infinitive": "Guess",
+		"pastSimple": "Guessed",
+		"pastParticiple": "",
+		"translation": "Adivinar"
+	},
+	{
+		"id": 77,
+		"infinitive": "Manage",
+		"pastSimple": "Managed",
+		"pastParticiple": "",
+		"translation": "Administrar"
+	},
+	{
+		"id": 78,
+		"infinitive": "Admit",
+		"pastSimple": "Admitted",
+		"pastParticiple": "",
+		"translation": "Admitir"
+	},
+	{
+		"id": 79,
+		"infinitive": "Drop",
+		"pastSimple": "Dropped",
+		"pastParticiple": "",
+		"translation": "Soltar"
+	},
+	{
+		"id": 80,
+		"infinitive": "Adore",
+		"pastSimple": "Adored",
+		"pastParticiple": "",
+		"translation": "Adorar"
+	},
+	{
+		"id": 81,
+		"infinitive": "Earn",
+		"pastSimple": "Earned",
+		"pastParticiple": "",
+		"translation": "Ganar"
+	},
+	{
+		"id": 82,
+		"infinitive": "Acquire",
+		"pastSimple": "Acquired",
+		"pastParticiple": "",
+		"translation": "Adquirir"
+	},
+	{
+		"id": 83,
+		"infinitive": "Educate",
+		"pastSimple": "Educated",
+		"pastParticiple": "",
+		"translation": "Educar"
+	},
+	{
+		"id": 84,
+		"infinitive": "Effect",
+		"pastSimple": "Effected",
+		"pastParticiple": "",
+		"translation": "Efectuar"
+	},
+	{
+		"id": 85,
+		"infinitive": "Elect",
+		"pastSimple": "Elected",
+		"pastParticiple": "",
+		"translation": "Elegir"
+	},
+	{
+		"id": 86,
+		"infinitive": "Eliminate",
+		"pastSimple": "Eliminated",
+		"pastParticiple": "",
+		"translation": "Eliminar"
+	},
+	{
+		"id": 87,
+		"infinitive": "Employ",
+		"pastSimple": "Employed",
+		"pastParticiple": "",
+		"translation": "Emplear"
+	},
+	{
+		"id": 88,
+		"infinitive": "Encourage",
+		"pastSimple": "Encouraged",
+		"pastParticiple": "",
+		"translation": "Animar"
+	},
+	{
+		"id": 89,
+		"infinitive": "Enjoy",
+		"pastSimple": "Enjoyed",
+		"pastParticiple": "",
+		"translation": "Disfrutar"
+	},
+	{
+		"id": 90,
+		"infinitive": "Enter",
+		"pastSimple": "Entered",
+		"pastParticiple": "",
+		"translation": "Entrar"
+	},
+	{
+		"id": 91,
+		"infinitive": "Establish",
+		"pastSimple": "Established",
+		"pastParticiple": "",
+		"translation": "Establecer"
+	},
+	{
+		"id": 92,
+		"infinitive": "Examine",
+		"pastSimple": "Examined",
+		"pastParticiple": "",
+		"translation": "Examinar"
+	},
+	{
+		"id": 93,
+		"infinitive": "Exist",
+		"pastSimple": "Existed",
+		"pastParticiple": "",
+		"translation": "Existir"
+	},
+	{
+		"id": 94,
+		"infinitive": "Expand",
+		"pastSimple": "Expanded",
+		"pastParticiple": "",
+		"translation": "Expandir"
+	},
+	{
+		"id": 95,
+		"infinitive": "Expect",
+		"pastSimple": "Expected",
+		"pastParticiple": "",
+		"translation": "Esperar"
+	},
+	{
+		"id": 96,
+		"infinitive": "Experience",
+		"pastSimple": "Experienced",
+		"pastParticiple": "",
+		"translation": "Experimentar"
+	},
+	{
+		"id": 97,
+		"infinitive": "Explain",
+		"pastSimple": "Explained",
+		"pastParticiple": "",
+		"translation": "Explicar"
+	},
+	{
+		"id": 98,
+		"infinitive": "Express",
+		"pastSimple": "Expressed",
+		"pastParticiple": "",
+		"translation": "Expresar"
+	},
+	{
+		"id": 99,
+		"infinitive": "Extend",
+		"pastSimple": "Extended",
+		"pastParticiple": "",
+		"translation": "Extender"
+	},
+	{
+		"id": 100,
+		"infinitive": "Face",
+		"pastSimple": "Faced",
+		"pastParticiple": "",
+		"translation": "Enfrentar"
+	},
+	{
+		"id": 101,
+		"infinitive": "Thank",
+		"pastSimple": "Thanked",
+		"pastParticiple": "",
+		"translation": "Agradecer"
+	},
+	{
+		"id": 102,
+		"infinitive": "Advertise",
+		"pastSimple": "Advertised",
+		"pastParticiple": "",
+		"translation": "Anunciar"
+	},
+	{
+		"id": 103,
+		"infinitive": "Park",
+		"pastSimple": "Parked",
+		"pastParticiple": "",
+		"translation": "Aparcar"
+	},
+	{
+		"id": 104,
+		"infinitive": "Appear",
+		"pastSimple": "Appeared",
+		"pastParticiple": "",
+		"translation": "Aparecer"
+	},
+	{
+		"id": 105,
+		"infinitive": "Pass",
+		"pastSimple": "Passed",
+		"pastParticiple": "",
+		"translation": "Aprobar"
+	},
+	{
+		"id": 106,
+		"infinitive": "Hurry",
+		"pastSimple": "Hurried",
+		"pastParticiple": "",
+		"translation": "Apurarse"
+	},
+	{
+		"id": 107,
+		"infinitive": "File",
+		"pastSimple": "Filed",
+		"pastParticiple": "",
+		"translation": "Archivar"
+	},
+	{
+		"id": 108,
+		"infinitive": "Arrange",
+		"pastSimple": "Arranged",
+		"pastParticiple": "",
+		"translation": "Arreglar"
+	},
+	{
+		"id": 109,
+		"infinitive": "Fix",
+		"pastSimple": "Fixed",
+		"pastParticiple": "",
+		"translation": "Arreglar"
+	},
+	{
+		"id": 110,
+		"infinitive": "Arrest",
+		"pastSimple": "Arrested",
+		"pastParticiple": "",
+		"translation": "Arrestar"
+	},
+	{
+		"id": 111,
+		"infinitive": "Assure",
+		"pastSimple": "Assured",
+		"pastParticiple": "",
+		"translation": "Asegurar"
+	},
+	{
+		"id": 112,
+		"infinitive": "Assist",
+		"pastSimple": "Assisted",
+		"pastParticiple": "",
+		"translation": "Asistir"
+	},
+	{
+		"id": 113,
+		"infinitive": "Tie",
+		"pastSimple": "Tied",
+		"pastParticiple": "",
+		"translation": "Atar"
+	},
+	{
+		"id": 114,
+		"infinitive": "Learn",
+		"pastSimple": "Learned",
+		"pastParticiple": "",
+		"translation": "Aprender"
+	},
+	{
+		"id": 115,
+		"infinitive": "Advance",
+		"pastSimple": "Advanced",
+		"pastParticiple": "",
+		"translation": "Avanzar"
+	},
+	{
+		"id": 116,
+		"infinitive": "Help",
+		"pastSimple": "Helped",
+		"pastParticiple": "",
+		"translation": "Ayudar"
+	},
+	{
+		"id": 117,
+		"infinitive": "Kiss",
+		"pastSimple": "Kissed",
+		"pastParticiple": "",
+		"translation": "Besar"
+	},
+	{
+		"id": 118,
+		"infinitive": "Search",
+		"pastSimple": "Searched",
+		"pastParticiple": "",
+		"translation": "Buscar"
+	},
+	{
+		"id": 119,
+		"infinitive": "Warm",
+		"pastSimple": "Warmed",
+		"pastParticiple": "",
+		"translation": "Calentar"
+	},
+	{
+		"id": 120,
+		"infinitive": "Walk",
+		"pastSimple": "Walked",
+		"pastParticiple": "",
+		"translation": "Caminar"
+	},
+	{
+		"id": 121,
+		"infinitive": "Charge",
+		"pastSimple": "Charged",
+		"pastParticiple": "",
+		"translation": "Cargar"
+	},
+	{
+		"id": 122,
+		"infinitive": "Marry",
+		"pastSimple": "Married",
+		"pastParticiple": "",
+		"translation": "Casarse"
+	},
+	{
+		"id": 123,
+		"infinitive": "Punish",
+		"pastSimple": "Punished",
+		"pastParticiple": "",
+		"translation": "Castigar"
+	},
+	{
+		"id": 124,
+		"infinitive": "Brush",
+		"pastSimple": "Brushed",
+		"pastParticiple": "",
+		"translation": "Cepillar"
+	},
+	{
+		"id": 125,
+		"infinitive": "Crash",
+		"pastSimple": "Crashed",
+		"pastParticiple": "",
+		"translation": "Chocar"
+	},
+	{
+		"id": 126,
+		"infinitive": "Cash",
+		"pastSimple": "Cashed",
+		"pastParticiple": "",
+		"translation": "Cobrar"
+	},
+	{
+		"id": 127,
+		"infinitive": "Combine",
+		"pastSimple": "Combined",
+		"pastParticiple": "",
+		"translation": "Combinar"
+	},
+	{
+		"id": 128,
+		"infinitive": "Start",
+		"pastSimple": "Started",
+		"pastParticiple": "",
+		"translation": "Comenzar"
+	},
+	{
+		"id": 129,
+		"infinitive": "Please",
+		"pastSimple": "Pleased",
+		"pastParticiple": "",
+		"translation": "Complacer"
+	},
+	{
+		"id": 130,
+		"infinitive": "Compose",
+		"pastSimple": "Composed",
+		"pastParticiple": "",
+		"translation": "Componer"
+	},
+	{
+		"id": 131,
+		"infinitive": "Behave",
+		"pastSimple": "Behaved",
+		"pastParticiple": "",
+		"translation": "Comportarse"
+	},
+	{
+		"id": 132,
+		"infinitive": "Show",
+		"pastSimple": "Showed",
+		"pastParticiple": "",
+		"translation": "Mostrar"
+	},
+	{
+		"id": 133,
+		"infinitive": "Trust",
+		"pastSimple": "Trusted",
+		"pastParticiple": "",
+		"translation": "Confiar"
+	},
+	{
+		"id": 134,
+		"infinitive": "Consider",
+		"pastSimple": "Considered",
+		"pastParticiple": "",
+		"translation": "Considerar"
+	},
+	{
+		"id": 135,
+		"infinitive": "Consist",
+		"pastSimple": "Consisted",
+		"pastParticiple": "",
+		"translation": "Consistir"
+	},
+	{
+		"id": 136,
+		"infinitive": "Contain",
+		"pastSimple": "Contained",
+		"pastParticiple": "",
+		"translation": "Contener"
+	},
+	{
+		"id": 137,
+		"infinitive": "Continue",
+		"pastSimple": "Continued",
+		"pastParticiple": "",
+		"translation": "Continuar"
+	},
+	{
+		"id": 138,
+		"infinitive": "Crown",
+		"pastSimple": "Crowned",
+		"pastParticiple": "",
+		"translation": "Coronar"
+	},
+	{
+		"id": 139,
+		"infinitive": "Cross",
+		"pastSimple": "Crossed",
+		"pastParticiple": "",
+		"translation": "Cruzar"
+	},
+	{
+		"id": 140,
+		"infinitive": "Cover",
+		"pastSimple": "Covered",
+		"pastParticiple": "",
+		"translation": "Cubrir"
+	},
+	{
+		"id": 141,
+		"infinitive": "Blame",
+		"pastSimple": "Blamed",
+		"pastParticiple": "",
+		"translation": "Culpar"
+	},
+	{
+		"id": 142,
+		"infinitive": "Declare",
+		"pastSimple": "Declared",
+		"pastParticiple": "",
+		"translation": "Declarar"
+	},
+	{
+		"id": 143,
+		"infinitive": "Devote",
+		"pastSimple": "Devoted",
+		"pastParticiple": "",
+		"translation": "Dedicar"
+	},
+	{
+		"id": 144,
+		"infinitive": "spelled",
+		"pastSimple": "spelled",
+		"pastParticiple": "",
+		"translation": "Deletrear"
+	},
+	{
+		"id": 145,
+		"infinitive": "Deny",
+		"pastSimple": "Denied",
+		"pastParticiple": "",
+		"translation": "Denegar"
+	},
+	{
+		"id": 146,
+		"infinitive": "Hope",
+		"pastSimple": "Hoped",
+		"pastParticiple": "",
+		"translation": "Desear"
+	},
+	{
+		"id": 147,
+		"infinitive": "Wish",
+		"pastSimple": "Wished",
+		"pastParticiple": "",
+		"translation": "Desear"
+	},
+	{
+		"id": 148,
+		"infinitive": "Destroy",
+		"pastSimple": "Destroyed",
+		"pastParticiple": "",
+		"translation": "Destruir"
+	}
+]

@@ -1,0 +1,536 @@
+[
+	{
+		"id": 1,
+		"infinitive": "Awake",
+		"pastSimple": "Awoke",
+		"translation": "Despertarse"
+	},
+	{
+		"id": 2,
+		"infinitive": "Beat",
+		"pastSimple": "Beat",
+		"translation": "Golpear"
+	},
+	{
+		"id": 3,
+		"infinitive": "Become",
+		"pastSimple": "Became",
+		"translation": "Convertirse"
+	},
+	{
+		"id": 4,
+		"infinitive": "Begin",
+		"pastSimple": "Began",
+		"translation": "Comenzar"
+	},
+	{
+		"id": 5,
+		"infinitive": "Bite",
+		"pastSimple": "Bit",
+		"translation": "Morder"
+	},
+	{
+		"id": 6,
+		"infinitive": "Blow",
+		"pastSimple": "Blew",
+		"translation": "Soplar"
+	},
+	{
+		"id": 7,
+		"infinitive": "Break",
+		"pastSimple": "Broke",
+		"translation": "Romper"
+	},
+	{
+		"id": 8,
+		"infinitive": "Bring",
+		"pastSimple": "Brought",
+		"translation": "Traer"
+	},
+	{
+		"id": 9,
+		"infinitive": "Build",
+		"pastSimple": "Built",
+		"translation": "Construir"
+	},
+	{
+		"id": 10,
+		"infinitive": "Buy",
+		"pastSimple": "Bought",
+		"translation": "Comprar"
+	},
+	{
+		"id": 11,
+		"infinitive": "Catch",
+		"pastSimple": "Caught",
+		"translation": "Atrapar"
+	},
+	{
+		"id": 12,
+		"infinitive": "Choose",
+		"pastSimple": "Chose",
+		"translation": "Elegir"
+	},
+	{
+		"id": 13,
+		"infinitive": "Come",
+		"pastSimple": "Came",
+		"translation": "Venir"
+	},
+	{
+		"id": 14,
+		"infinitive": "Cost",
+		"pastSimple": "Cost",
+		"translation": "Costar"
+	},
+	{
+		"id": 15,
+		"infinitive": "Cut",
+		"pastSimple": "Cut",
+		"translation": "Cortar"
+	},
+	{
+		"id": 16,
+		"infinitive": "Do",
+		"pastSimple": "Did",
+		"translation": "Hacer"
+	},
+	{
+		"id": 17,
+		"infinitive": "Draw",
+		"pastSimple": "Drew",
+		"translation": "Dibujar"
+	},
+	{
+		"id": 18,
+		"infinitive": "Drink",
+		"pastSimple": "Drank",
+		"translation": "Beber"
+	},
+	{
+		"id": 19,
+		"infinitive": "Drive",
+		"pastSimple": "Drove",
+		"translation": "Conducir"
+	},
+	{
+		"id": 20,
+		"infinitive": "Eat",
+		"pastSimple": "Ate",
+		"translation": "Comer"
+	},
+	{
+		"id": 21,
+		"infinitive": "Fall",
+		"pastSimple": "Fell",
+		"translation": "Caer"
+	},
+	{
+		"id": 22,
+		"infinitive": "Feed",
+		"pastSimple": "Fed",
+		"translation": "Alimentar"
+	},
+	{
+		"id": 23,
+		"infinitive": "Feel",
+		"pastSimple": "Felt",
+		"translation": "Sentir"
+	},
+	{
+		"id": 24,
+		"infinitive": "Fight",
+		"pastSimple": "Fought",
+		"translation": "Pelear"
+	},
+	{
+		"id": 25,
+		"infinitive": "Find",
+		"pastSimple": "Found",
+		"translation": "Encontrar"
+	},
+	{
+		"id": 26,
+		"infinitive": "Fly",
+		"pastSimple": "Flew",
+		"translation": "Volar"
+	},
+	{
+		"id": 27,
+		"infinitive": "Forget",
+		"pastSimple": "Forgot",
+		"translation": "Olvidar"
+	},
+	{
+		"id": 28,
+		"infinitive": "Forgive",
+		"pastSimple": "Forgave",
+		"translation": "Perdonar"
+	},
+	{
+		"id": 29,
+		"infinitive": "Freeze",
+		"pastSimple": "Froze",
+		"translation": "Congelar"
+	},
+	{
+		"id": 30,
+		"infinitive": "Get",
+		"pastSimple": "Got",
+		"translation": "Obtener"
+	},
+	{
+		"id": 31,
+		"infinitive": "Go",
+		"pastSimple": "Went",
+		"translation": "Ir"
+	},
+	{
+		"id": 32,
+		"infinitive": "Grow",
+		"pastSimple": "Grew",
+		"translation": "Crecer"
+	},
+	{
+		"id": 33,
+		"infinitive": "Hang",
+		"pastSimple": "Hung",
+		"translation": "Colgar"
+	},
+	{
+		"id": 34,
+		"infinitive": "Have",
+		"pastSimple": "Had",
+		"translation": "Tener"
+	},
+	{
+		"id": 35,
+		"infinitive": "Hide",
+		"pastSimple": "Hid",
+		"translation": "Esconder"
+	},
+	{
+		"id": 36,
+		"infinitive": "Hit",
+		"pastSimple": "Hit",
+		"translation": "Golpear"
+	},
+	{
+		"id": 37,
+		"infinitive": "Hold",
+		"pastSimple": "Held",
+		"translation": "Sostener"
+	},
+	{
+		"id": 38,
+		"infinitive": "Hurt",
+		"pastSimple": "Hurt",
+		"translation": "Lastimar"
+	},
+	{
+		"id": 39,
+		"infinitive": "Keep",
+		"pastSimple": "Kept",
+		"translation": "Mantener"
+	},
+	{
+		"id": 40,
+		"infinitive": "Know",
+		"pastSimple": "Knew",
+		"translation": "Saber"
+	},
+	{
+		"id": 41,
+		"infinitive": "Lay",
+		"pastSimple": "Laid",
+		"translation": "Poner"
+	},
+	{
+		"id": 42,
+		"infinitive": "Lead",
+		"pastSimple": "Led",
+		"translation": "Liderar"
+	},
+	{
+		"id": 43,
+		"infinitive": "Leave",
+		"pastSimple": "Left",
+		"translation": "Dejar"
+	},
+	{
+		"id": 44,
+		"infinitive": "Lend",
+		"pastSimple": "Lent",
+		"translation": "Prestar"
+	},
+	{
+		"id": 45,
+		"infinitive": "Let",
+		"pastSimple": "Let",
+		"translation": "Permitir"
+	},
+	{
+		"id": 46,
+		"infinitive": "Lie",
+		"pastSimple": "Lay",
+		"translation": "Mentir"
+	},
+	{
+		"id": 47,
+		"infinitive": "Light",
+		"pastSimple": "Lit",
+		"translation": "Encender"
+	},
+	{
+		"id": 48,
+		"infinitive": "Lose",
+		"pastSimple": "Lost",
+		"translation": "Perder"
+	},
+	{
+		"id": 49,
+		"infinitive": "Make",
+		"pastSimple": "Made",
+		"translation": "Hacer"
+	},
+	{
+		"id": 50,
+		"infinitive": "Mean",
+		"pastSimple": "Meant",
+		"translation": "Significar"
+	},
+	{
+		"id": 51,
+		"infinitive": "Meet",
+		"pastSimple": "Met",
+		"translation": "Encontrar"
+	},
+	{
+		"id": 52,
+		"infinitive": "Pay",
+		"pastSimple": "Paid",
+		"translation": "Pagar"
+	},
+	{
+		"id": 53,
+		"infinitive": "Put",
+		"pastSimple": "Put",
+		"translation": "Poner"
+	},
+	{
+		"id": 54,
+		"infinitive": "Read",
+		"pastSimple": "Read",
+		"translation": "Leer"
+	},
+	{
+		"id": 55,
+		"infinitive": "Ride",
+		"pastSimple": "Rode",
+		"translation": "Montar"
+	},
+	{
+		"id": 56,
+		"infinitive": "Ring",
+		"pastSimple": "Rang",
+		"translation": "Sonar"
+	},
+	{
+		"id": 57,
+		"infinitive": "Rise",
+		"pastSimple": "Rose",
+		"translation": "Levantarse"
+	},
+	{
+		"id": 58,
+		"infinitive": "Run",
+		"pastSimple": "Ran",
+		"translation": "Correr"
+	},
+	{
+		"id": 59,
+		"infinitive": "Say",
+		"pastSimple": "Said",
+		"translation": "Decir"
+	},
+	{
+		"id": 60,
+		"infinitive": "See",
+		"pastSimple": "Saw",
+		"translation": "Ver"
+	},
+	{
+		"id": 61,
+		"infinitive": "Seek",
+		"pastSimple": "Sought",
+		"translation": "Buscar"
+	},
+	{
+		"id": 62,
+		"infinitive": "Sell",
+		"pastSimple": "Sold",
+		"translation": "Vender"
+	},
+	{
+		"id": 63,
+		"infinitive": "Send",
+		"pastSimple": "Sent",
+		"translation": "Enviar"
+	},
+	{
+		"id": 64,
+		"infinitive": "Shake",
+		"pastSimple": "Shook",
+		"translation": "Sacudir"
+	},
+	{
+		"id": 65,
+		"infinitive": "Shine",
+		"pastSimple": "Shone",
+		"translation": "Brillar"
+	},
+	{
+		"id": 66,
+		"infinitive": "Shoot",
+		"pastSimple": "Shot",
+		"translation": "Disparar"
+	},
+	{
+		"id": 67,
+		"infinitive": "Show",
+		"pastSimple": "Showed",
+		"translation": "Mostrar"
+	},
+	{
+		"id": 68,
+		"infinitive": "Shut",
+		"pastSimple": "Shut",
+		"translation": "Cerrar"
+	},
+	{
+		"id": 69,
+		"infinitive": "Sing",
+		"pastSimple": "Sang",
+		"translation": "Cantar"
+	},
+	{
+		"id": 70,
+		"infinitive": "Sink",
+		"pastSimple": "Sank",
+		"translation": "Hundir"
+	},
+	{
+		"id": 71,
+		"infinitive": "Sit",
+		"pastSimple": "Sat",
+		"translation": "Sentarse"
+	},
+	{
+		"id": 72,
+		"infinitive": "Sleep",
+		"pastSimple": "Slept",
+		"translation": "Dormir"
+	},
+	{
+		"id": 73,
+		"infinitive": "Speak",
+		"pastSimple": "Spoke",
+		"translation": "Hablar"
+	},
+	{
+		"id": 74,
+		"infinitive": "Bend",
+		"pastSimple": "Bent",
+		"translation": "Doblar"
+	},
+	{
+		"id": 75,
+		"infinitive": "Bet",
+		"pastSimple": "Bet",
+		"translation": "Apostar"
+	},
+	{
+		"id": 76,
+		"infinitive": "Bid",
+		"pastSimple": "Bid",
+		"translation": "Pujar"
+	},
+	{
+		"id": 77,
+		"infinitive": "Steal",
+		"pastSimple": "Stole",
+		"translation": "Robar"
+	},
+	{
+		"id": 78,
+		"infinitive": "Stick",
+		"pastSimple": "Stuck",
+		"translation": "Pegar"
+	},
+	{
+		"id": 79,
+		"infinitive": "Swim",
+		"pastSimple": "Swam",
+		"translation": "Nadar"
+	},
+	{
+		"id": 80,
+		"infinitive": "Take",
+		"pastSimple": "Took",
+		"translation": "Tomar"
+	},
+	{
+		"id": 81,
+		"infinitive": "Teach",
+		"pastSimple": "Taught",
+		"translation": "Enseñar"
+	},
+	{
+		"id": 82,
+		"infinitive": "Tell",
+		"pastSimple": "Told",
+		"translation": "Decir"
+	},
+	{
+		"id": 83,
+		"infinitive": "Think",
+		"pastSimple": "Thought",
+		"translation": "Pensar"
+	},
+	{
+		"id": 84,
+		"infinitive": "Throw",
+		"pastSimple": "Threw",
+		"translation": "Lanzar"
+	},
+	{
+		"id": 85,
+		"infinitive": "Understand",
+		"pastSimple": "Understood",
+		"translation": "Entender"
+	},
+	{
+		"id": 86,
+		"infinitive": "Wake",
+		"pastSimple": "Woke",
+		"translation": "Despertar"
+	},
+	{
+		"id": 87,
+		"infinitive": "Wear",
+		"pastSimple": "Wore",
+		"translation": "Usar"
+	},
+	{
+		"id": 88,
+		"infinitive": "Win",
+		"pastSimple": "Won",
+		"translation": "Ganar"
+	},
+	{
+		"id": 89,
+		"infinitive": "Write",
+		"pastSimple": "Wrote",
+		"translation": "Escribir"
+	}
+]
